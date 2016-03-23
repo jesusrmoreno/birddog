@@ -101,7 +101,8 @@ type SubTagHandler interface {
 ```
 
 ## Example
-```Gopackage main
+```Go
+package main
 
 import (
 	"fmt"
