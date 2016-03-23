@@ -7,7 +7,7 @@ go get github.com/jesusrmoreno/birddog
 [Buzzfeed rss-puppy](https://github.com/buzzfeed-openlab/rss-puppy)
 
 This library is designed to monitor Subreddits in bulk, and to generate machine friendly
-notification when new posts appear and can search for keywords in the title of posts.
+notifications when new posts appear and can search for keywords in the title of posts.
 
 This monitor can be run on any cloud service provider, and only requires Go and LedisDB. Also, it is trivial to add output handlers which can pipe subreddit post data to any service you use.
 
