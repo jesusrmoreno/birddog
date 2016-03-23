@@ -1,12 +1,11 @@
-# Birddog
-# Inspired by Buzzfeed's rss-puppy
+# Birddog a watchdog tool for monitoring subreddits
+### Inspired by Buzzfeed's rss-puppy
 [Buzzfeed rss-puppy](https://github.com/buzzfeed-openlab/rss-puppy)
 
 ```bash
 go get github.com/jesusrmoreno/birddog
 ```
 
-##### A watchdog tool for monitoring subreddits
 This library is designed to monitor Subreddits in bulk, and to generate machine friendly
 notification when new posts appear and can search for keywords in the title of posts.
 
@@ -31,6 +30,7 @@ userAgent = "<platform>:<app ID>:<version string> (by /u/<reddit username>)"
 # on Wed Mar 23 2:22 AM
 subreddits = [
   "AskReddit",
+  "sandersforpresident",
   "The_Donald",
   "politics",
   "funny",
