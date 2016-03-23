@@ -1,4 +1,4 @@
-# Birddog A watchdog tool for monitoring subreddits
+# Birddog a watchdog tool for monitoring subreddits
 ### Inspired by Buzzfeed's rss-puppy
 [Buzzfeed rss-puppy](https://github.com/buzzfeed-openlab/rss-puppy)
 
@@ -30,6 +30,7 @@ userAgent = "<platform>:<app ID>:<version string> (by /u/<reddit username>)"
 # on Wed Mar 23 2:22 AM
 subreddits = [
   "AskReddit",
+  "sandersforpresident",
   "The_Donald",
   "politics",
   "funny",
