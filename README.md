@@ -1,10 +1,10 @@
 # Birddog a watchdog tool for monitoring subreddits
-### Inspired by Buzzfeed's rss-puppy
-[Buzzfeed rss-puppy](https://github.com/buzzfeed-openlab/rss-puppy)
-
 ```bash
 go get github.com/jesusrmoreno/birddog
 ```
+
+### Inspired by Buzzfeed's rss-puppy
+[Buzzfeed rss-puppy](https://github.com/buzzfeed-openlab/rss-puppy)
 
 This library is designed to monitor Subreddits in bulk, and to generate machine friendly
 notification when new posts appear and can search for keywords in the title of posts.
