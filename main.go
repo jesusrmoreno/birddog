@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jesusrmoreno/birddog/Godeps/_workspace/src/github.com/BurntSushi/toml"
-	"github.com/jesusrmoreno/birddog/Godeps/_workspace/src/github.com/beefsack/go-rate"
-	"github.com/jesusrmoreno/birddog/Godeps/_workspace/src/github.com/jesusrmoreno/gordita"
-	"github.com/jesusrmoreno/birddog/Godeps/_workspace/src/github.com/siddontang/ledisdb/ledis"
+	"github.com/BurntSushi/toml"
+	"github.com/beefsack/go-rate"
 	"github.com/jesusrmoreno/birddog/models"
+	"github.com/jesusrmoreno/gordita"
+	"github.com/siddontang/ledisdb/ledis"
 )
 
 const (
